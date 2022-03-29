@@ -1,0 +1,30 @@
+<!--<?xml version="1.0" encoding="UTF-8" standalone="yes"?>-->
+<!--<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"-->
+<!--             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"-->
+<!--             version="2.2">-->
+<!--    <persistence-unit name="Job">-->
+<!--       <class>edu.miu.cs544.samba.finalproject.entity.Address</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.Application</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.Client</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.Company</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.HiringManagerInterview</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.Interview</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.Job</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.Recruiter</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.ScreeningInterview</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.Skill</class>-->
+<!--        <class>edu.miu.cs544.samba.finalproject.entity.TechnicalInterview</class>-->
+<!--        <properties>-->
+<!--            <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>-->
+<!--            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/cs544db"/>-->
+<!--            <property name="javax.persistence.jdbc.user" value="ea"/>-->
+<!--            <property name="javax.persistence.jdbc.password" value="cs544"/>-->
+<!--            <property name="eclipselink.ddl-generation" value="drop-and-create-tables"/>-->
+<!--            <property name="eclipselink.logging.level" value="FINE"/>-->
+<!--            <property name="eclipselink.create-ddl-jdbc-file-name" value="createDDL_ddlGeneration.jdbc"/>-->
+<!--            <property name="eclipselink.drop-ddl-jdbc-file-name" value="dropDDL_ddlGeneration.jdbc"/>-->
+<!--            <property name="eclipselink.ddl-generation.output-mode" value="both"/>-->
+<!--        </properties>-->
+<!--    </persistence-unit>-->
+<!--</persistence>-->
